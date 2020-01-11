@@ -1,0 +1,724 @@
+{
+    "count": 16,
+    "filters": {
+        "status": [
+            "SCHEDULED"
+        ]
+    },
+    "competition": {
+        "id": 2001,
+        "area": {
+            "id": 2077,
+            "name": "Europe"
+        },
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "plan": "TIER_ONE",
+        "lastUpdated": "2019-12-12T20:20:00Z"
+    },
+    "matches": [{
+            "id": 285532,
+            "season": {
+                "id": 495,
+                "startDate": "2019-06-25",
+                "endDate": "2020-05-30",
+                "currentMatchday": 6
+            },
+            "utcDate": "2020-02-18T20:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": null,
+            "stage": "ROUND_OF_16",
+            "group": null,
+            "lastUpdated": "2019-12-16T11:30:15Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 4,
+                "name": "BV Borussia 09 Dortmund"
+            },
+            "awayTeam": {
+                "id": 524,
+                "name": "Paris Saint-Germain FC"
+            },
+            "referees": []
+        },
+        {
+            "id": 285538,
+            "season": {
+                "id": 495,
+                "startDate": "2019-06-25",
+                "endDate": "2020-05-30",
+                "currentMatchday": 6
+            },
+            "utcDate": "2020-02-18T20:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": null,
+            "stage": "ROUND_OF_16",
+            "group": null,
+            "lastUpdated": "2019-12-16T12:30:16Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 78,
+                "name": "Club Atlético de Madrid"
+            },
+            "awayTeam": {
+                "id": 64,
+                "name": "Liverpool FC"
+            },
+            "referees": []
+        },
+        {
+            "id": 285536,
+            "season": {
+                "id": 495,
+                "startDate": "2019-06-25",
+                "endDate": "2020-05-30",
+                "currentMatchday": 6
+            },
+            "utcDate": "2020-02-19T20:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": null,
+            "stage": "ROUND_OF_16",
+            "group": null,
+            "lastUpdated": "2019-12-16T14:30:17Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 102,
+                "name": "Atalanta BC"
+            },
+            "awayTeam": {
+                "id": 95,
+                "name": "Valencia CF"
+            },
+            "referees": []
+        },
+        {
+            "id": 285544,
+            "season": {
+                "id": 495,
+                "startDate": "2019-06-25",
+                "endDate": "2020-05-30",
+                "currentMatchday": 6
+            },
+            "utcDate": "2020-02-19T20:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": null,
+            "stage": "ROUND_OF_16",
+            "group": null,
+            "lastUpdated": "2019-12-16T14:30:18Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 73,
+                "name": "Tottenham Hotspur FC"
+            },
+            "awayTeam": {
+                "id": 721,
+                "name": "RB Leipzig"
+            },
+            "referees": []
+        },
+        {
+            "id": 285540,
+            "season": {
+                "id": 495,
+                "startDate": "2019-06-25",
+                "endDate": "2020-05-30",
+                "currentMatchday": 6
+            },
+            "utcDate": "2020-02-25T20:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": null,
+            "stage": "ROUND_OF_16",
+            "group": null,
+            "lastUpdated": "2019-12-16T14:30:18Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 61,
+                "name": "Chelsea FC"
+            },
+            "awayTeam": {
+                "id": 5,
+                "name": "FC Bayern München"
+            },
+            "referees": []
+        },
+        {
+            "id": 285546,
+            "season": {
+                "id": 495,
+                "startDate": "2019-06-25",
+                "endDate": "2020-05-30",
+                "currentMatchday": 6
+            },
+            "utcDate": "2020-02-25T20:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": null,
+            "stage": "ROUND_OF_16",
+            "group": null,
+            "lastUpdated": "2019-12-16T14:30:19Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 113,
+                "name": "SSC Napoli"
+            },
+            "awayTeam": {
+                "id": 81,
+                "name": "FC Barcelona"
+            },
+            "referees": []
+        },
+        {
+            "id": 285534,
+            "season": {
+                "id": 495,
+                "startDate": "2019-06-25",
+                "endDate": "2020-05-30",
+                "currentMatchday": 6
+            },
+            "utcDate": "2020-02-26T20:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": null,
+            "stage": "ROUND_OF_16",
+            "group": null,
+            "lastUpdated": "2019-12-16T14:30:17Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 86,
+                "name": "Real Madrid CF"
+            },
+            "awayTeam": {
+                "id": 65,
+                "name": "Manchester City FC"
+            },
+            "referees": []
+        },
+        {
+            "id": 285542,
+            "season": {
+                "id": 495,
+                "startDate": "2019-06-25",
+                "endDate": "2020-05-30",
+                "currentMatchday": 6
+            },
+            "utcDate": "2020-02-26T20:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": null,
+            "stage": "ROUND_OF_16",
+            "group": null,
+            "lastUpdated": "2019-12-16T14:30:18Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 523,
+                "name": "Olympique Lyonnais"
+            },
+            "awayTeam": {
+                "id": 109,
+                "name": "Juventus FC"
+            },
+            "referees": []
+        },
+        {
+            "id": 285537,
+            "season": {
+                "id": 495,
+                "startDate": "2019-06-25",
+                "endDate": "2020-05-30",
+                "currentMatchday": 6
+            },
+            "utcDate": "2020-03-10T20:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": null,
+            "stage": "ROUND_OF_16",
+            "group": null,
+            "lastUpdated": "2019-12-16T11:30:15Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 95,
+                "name": "Valencia CF"
+            },
+            "awayTeam": {
+                "id": 102,
+                "name": "Atalanta BC"
+            },
+            "referees": []
+        },
+        {
+            "id": 285545,
+            "season": {
+                "id": 495,
+                "startDate": "2019-06-25",
+                "endDate": "2020-05-30",
+                "currentMatchday": 6
+            },
+            "utcDate": "2020-03-10T20:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": null,
+            "stage": "ROUND_OF_16",
+            "group": null,
+            "lastUpdated": "2019-12-16T12:30:16Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 721,
+                "name": "RB Leipzig"
+            },
+            "awayTeam": {
+                "id": 73,
+                "name": "Tottenham Hotspur FC"
+            },
+            "referees": []
+        },
+        {
+            "id": 285533,
+            "season": {
+                "id": 495,
+                "startDate": "2019-06-25",
+                "endDate": "2020-05-30",
+                "currentMatchday": 6
+            },
+            "utcDate": "2020-03-11T20:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": null,
+            "stage": "ROUND_OF_16",
+            "group": null,
+            "lastUpdated": "2019-12-16T14:30:16Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 524,
+                "name": "Paris Saint-Germain FC"
+            },
+            "awayTeam": {
+                "id": 4,
+                "name": "BV Borussia 09 Dortmund"
+            },
+            "referees": []
+        },
+        {
+            "id": 285539,
+            "season": {
+                "id": 495,
+                "startDate": "2019-06-25",
+                "endDate": "2020-05-30",
+                "currentMatchday": 6
+            },
+            "utcDate": "2020-03-11T20:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": null,
+            "stage": "ROUND_OF_16",
+            "group": null,
+            "lastUpdated": "2019-12-16T14:30:17Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 64,
+                "name": "Liverpool FC"
+            },
+            "awayTeam": {
+                "id": 78,
+                "name": "Club Atlético de Madrid"
+            },
+            "referees": []
+        },
+        {
+            "id": 285535,
+            "season": {
+                "id": 495,
+                "startDate": "2019-06-25",
+                "endDate": "2020-05-30",
+                "currentMatchday": 6
+            },
+            "utcDate": "2020-03-17T20:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": null,
+            "stage": "ROUND_OF_16",
+            "group": null,
+            "lastUpdated": "2019-12-16T14:30:17Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 65,
+                "name": "Manchester City FC"
+            },
+            "awayTeam": {
+                "id": 86,
+                "name": "Real Madrid CF"
+            },
+            "referees": []
+        },
+        {
+            "id": 285543,
+            "season": {
+                "id": 495,
+                "startDate": "2019-06-25",
+                "endDate": "2020-05-30",
+                "currentMatchday": 6
+            },
+            "utcDate": "2020-03-17T20:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": null,
+            "stage": "ROUND_OF_16",
+            "group": null,
+            "lastUpdated": "2019-12-16T14:30:18Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 109,
+                "name": "Juventus FC"
+            },
+            "awayTeam": {
+                "id": 523,
+                "name": "Olympique Lyonnais"
+            },
+            "referees": []
+        },
+        {
+            "id": 285541,
+            "season": {
+                "id": 495,
+                "startDate": "2019-06-25",
+                "endDate": "2020-05-30",
+                "currentMatchday": 6
+            },
+            "utcDate": "2020-03-18T20:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": null,
+            "stage": "ROUND_OF_16",
+            "group": null,
+            "lastUpdated": "2019-12-16T14:30:18Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 5,
+                "name": "FC Bayern München"
+            },
+            "awayTeam": {
+                "id": 61,
+                "name": "Chelsea FC"
+            },
+            "referees": []
+        },
+        {
+            "id": 285547,
+            "season": {
+                "id": 495,
+                "startDate": "2019-06-25",
+                "endDate": "2020-05-30",
+                "currentMatchday": 6
+            },
+            "utcDate": "2020-03-18T20:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": null,
+            "stage": "ROUND_OF_16",
+            "group": null,
+            "lastUpdated": "2019-12-16T14:30:19Z",
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 81,
+                "name": "FC Barcelona"
+            },
+            "awayTeam": {
+                "id": 113,
+                "name": "SSC Napoli"
+            },
+            "referees": []
+        }
+    ]
+}
